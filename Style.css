@@ -1,0 +1,19 @@
+
+HTML {
+    height: 100%;
+}
+
+BODY {
+    min-height: 100%;
+    background-image: url(wallpaper.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container-form{
+    border: 3px solid black;
+    margin: auto;
+    width: 20%;
+    background-color: rgba(236,255,255,0.2);
+
+}
